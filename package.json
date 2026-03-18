@@ -1,0 +1,16 @@
+{
+  "name": "deploy-now-workshop",
+  "version": "1.0.0",
+  "description": "A hands-on deployment workshop — deploy something real, fast.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

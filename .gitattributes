@@ -1,0 +1,6 @@
+* text=auto eol=lf
+
+*.html diff=html
+*.css diff=css
+*.js diff=javascript
+*.md diff=markdown
